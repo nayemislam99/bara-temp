@@ -508,7 +508,7 @@ table .btn:hover {
 
 .page-footer {
     background-image: url(../img/bg2.svg);
-    padding: 2rem 0rem;
+    /* padding: 2rem 0rem; */
     background-position: 100% 100%;
     animation: slideBackground 10s infinite;
     /* Adjust animation duration and timing as needed */
@@ -711,7 +711,5 @@ table .btn:hover {
         position: relative;
         margin-top: -2%;
     }
-
-
 
 }
